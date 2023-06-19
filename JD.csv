@@ -1,0 +1,837 @@
+id,Context,Name,create_time
+46,"About the job
+DUTY & RESPONSIBILITIES
+We are looking for a talented Machine Learning Engineer to join our team and work on developing an internal enterprise chatbot using GPT and LLaMA models. In this role, you will be responsible for designing, building, and maintaining the machine learning models used in the chatbot. You will also work closely with our software development team to integrate the models into the chatbot.
+• Develop machine learning models using GPT and LLaMA models to power an internal enterprise chatbot.
+• Collaborate with software development teams to integrate the models into the chatbot.
+• Conduct experiments to optimize model performance and accuracy.
+• Analyze data and identify opportunities for model improvement.
+• Design and implement appropriate machine learning algorithms and architectures for the chatbot.
+• Implement and optimize distributed training of large-scale models on clusters.
+• Stay up-to-date with the latest research in machine learning, natural language processing, and conversational AI.
+
+MAIN REQUIREMENTS
+Must have skills:
+· At least 4 years of experience in Machine Learning or relavant positions (Data scientist, AI engineer, .etc).
+· Proficiency in Python
+· Experience with deep learning frameworks such as TensorFlow, PyTorch, Scikit Learn or Keras.
+· Experience with natural language processing (NLP) and conversational AI.
+· Strong mathematical background in linear algebra, probability theory, and statistics.
+· Experience in building up end-to-end Machine Learning pipeline.
+· Good command of English communication
+
+Good to have skills:
+· Experience in designing and implementing machine learning models using GPT and Llama models.
+· Experience with distributed computing frameworks such as Hadoop, Spark, etc.
+· Experience with Cloud (AWS, Azure, etc.)
+· Experience with data engineering
+
+WHY YOU SHOULD JOIN US
+Salary: Up to 850 Million VND gross/ year
+18 paid leaves/year (12 annual leaves and 6 personal leaves)
+Insurance plan based on full salary + 13th month salary + Performance bonus.
+Meal allowance of 730,000 VND/month
+100% full salary and benefits as an official employee from the 1st day of working
+Medical benefit for employee and family
+Working in a fast-paced, flexible, and multinational working environment. Chance to travel onsite (in 49 countries)
+Free snacks, refreshment, and parking
+Internal training (Technical & Functional & English)
+Working time: 09:00 AM - 06:00 PM from Mondays to Fridays (meal breaks included)
+
+For more support and information, please contact:
+Ha Thi Thu Huong (Ms.) – Talent Acquisition Executive
+HCL Vietnam Company Limited
+Mobile/Zalo/Whatsapp: (+84) 382356340
+Email: huong.ha@hcl.com
+LinkedIn: https://www.linkedin.com/in/huonggha/
+
+ABOUT HCL VIETNAM
+HCL Vietnam Company Limited belongs to HCLTech which is a global technology company, home to 222,270+ people across 60 countries, delivering industry-leading capabilities centered around digital, engineering and cloud, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, Retail and CPG, and Public Services. Consolidated revenues as of 12 months ending September 30, 2022, totaled $12.1 billion.
+HCL Vietnam’s offices:
+Hanoi Office: Level 13-17, Leadvisors Tower, 643 Pham Van Dong Street, Co Nhue Ward, North Tu Liem District, Hanoi
+HCMC Office: Level 11, Five Star Tower, 28Bis Mac Dinh Chi Street, Da Kao Ward, District 1, HCMC
+HCL Website: https://www.hclvietnam.com/","Machine Learning Engineer (NLP)","2023-05-28 21:07:04"
+47,"About the job
+*** We highly appreciate your interest in this position of HCL Vietnam. After reviewing all applications, only qualified candidates will be contacted for the next steps within 15 days from date of submission.
+
+JOB TITLE: Data Engineer - Google Cloud (up to 900 triệu VNĐ/năm)
+
+HCL Vietnam Ltd
+HCL Vietnam Company Limited belongs to HCLTech which is a global technology company, home to 222,270+ people across 60 countries, delivering industry-leading capabilities centered around digital, engineering and cloud, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, Retail and CPG, and Public Services. Consolidated revenues as of 12 months ending September 30, 2022, totaled $12.1 billion.
+
+We offer an integrated portfolio of products, solutions, services, and IP through our Mode 1-2-3 strategy built around Digital, IoT, Cloud, Automation, Cybersecurity, Analytics, Infrastructure Management and Engineering Services, amongst others, to help enterprises reimagine their businesses for the digital age.
+
+HCL Vietnam’s location:
+• Hanoi Office: Level 24, Leadvisors Tower, 643 Pham Van Dong Street, North Tu Liem District,
+• HCMC Office: Five Stars Tower, 28Bis Mac Dinh Chi, District 1, HCMC HCL
+Website: https://www.hclvietnam.com/
+
+JOB DESCRIPTION
+Job Title: Data Engineer – Google Cloud (GCP)
+Location: HCMC
+Email: recruit.hanoi@hcl.com
+
+DUTY & RESPONSIBILITIES
+• You will be responsible for building and running the data processing pipeline on Google cloud platform
+• Work with implementation teams from concept to operations, providing deep technical expertise for successfully deploying large scale data solutions in the enterprise, using modern data/analytics technologies on GCP
+• Design pipelines and architectures for data processing
+• Implement methods for Devops automation of all parts of the build data pipelines to deploy from development to production
+• Formulate business problems as technical data problems while ensuring key business drivers are captured in collaboration with product management
+• Extract, load, transform, clean and validate data
+• Supporting and debugging data pipelines
+
+MAIN REQUIREMENTS
+Must-have:
+• From 3-8 years of experience as Data Engineer
+• At least 2 years of experience in Google Cloud Platform (General infrastructure & services and particular data services such as BigQuery, DataFlow, AirFlow,…)
+• Strong in programming language – Python, secondary language (Java) is a plus
+• Having relative experience in Databases: SQL and NoSQL
+• Have a strong engineering mindset to automate tasks, identify use cases, test cases, improve the system, PR/Incident resolution and deployments
+Good to Have:
+• Having relative experience in Containerization: Docker, Kubernetes
+• Having relative experience in declarative CI/CD or DevOps
+• Having relative experience in Infrastructure as a Code (IaaC) (i.e., Terraform, Cloud Build)
+• Automated testing (ideally Robot Framework)
+• Having relative experience in Data management: Data Governance/ Data Architecture / Data Modelling/ Data Quality/ Data Integration
+
+BENEFITS
+• Attractive package including base salary + 13th month salary + Performance Bonus
+• Insurance based on full base salary
+• 100% of full salary and benefits as an official employee from the 1st day of working
+• Medical Benefit (Bao Viet Insurance Package) for Employee and Family
+• Working in a fast paced, flexible, and multinational working environment with opportunity to travel onsite (in 49 countries)
+• Internal Training (Technical & Functional & English)
+• Working time: 8:30 am-6:00 pm from Mondays to Fridays
+• Career development in a giant tech group just entering Vietnam market
+
+For more information, please reach me at mai.nguyen@hcl.com","Data Engineer - Google Cloud/GCP (up to 900 triệu VNĐ/năm)","2023-05-28 21:07:07"
+48,"About the job
+We are seeking a skilled and motivated AIGC (Artificial Intelligence and Graph Computing) Developer to join our dynamic team. As an AIGC Developer, you will play a crucial role in developing and implementing advanced AI algorithms and graph computing techniques to solve complex business problems. Your primary responsibility will be to design, develop, and deploy AI models and graph-based solutions that enable data-driven decision-making and optimization across various domains.
+
+Responsibilities:
+Collaborate with cross-functional teams, including data scientists, software engineers, and domain experts, to understand business requirements and design AI and graph computing solutions.
+Research, develop, and implement state-of-the-art AI algorithms and techniques, such as machine learning, deep learning, natural language processing, and computer vision, to extract insights from structured and unstructured data.
+Design and develop scalable graph-based data models, graph algorithms, and graph database solutions to solve complex problems related to network analysis, social network analysis, recommendation systems, fraud detection, and knowledge graph construction.
+Create robust and efficient software code to implement AI and graph-based solutions using programming languages such as Python, Java, or Scala.
+Perform data preprocessing, feature engineering, and data integration tasks to ensure the quality and suitability of data for AI and graph computing tasks.
+Evaluate and fine-tune AI models and graph algorithms for performance optimization, accuracy improvement, and scalability.
+Collaborate with software engineering teams to integrate AI and graph-based solutions into existing or new applications, systems, and platforms.
+Stay updated with the latest advancements in AI, graph computing, and related technologies and apply them to enhance the organization's capabilities and competitive edge.
+Document development processes, methodologies, and algorithms to ensure the reproducibility and maintainability of AI and graph-based solutions.
+Participate in code reviews, testing, and debugging activities to ensure the delivery of high-quality software solutions.
+
+Requirements:
+Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, or a related field.
+Solid understanding of AI concepts, algorithms, and techniques, such as machine learning, deep learning, natural language processing, and computer vision.
+Proficiency in programming languages such as Python, Java, or Scala, and experience with AI libraries and frameworks like TensorFlow, PyTorch, or scikit-learn.
+Strong knowledge of graph computing concepts, graph databases (e.g., Neo4j, Amazon Neptune), and graph query languages (e.g., Cypher, SPARQL).
+Experience with graph analytics and graph algorithm libraries (e.g., NetworkX, Apache Giraph) is preferred.
+Familiarity with data preprocessing techniques, feature engineering, and data integration for AI and graph computing tasks.
+Strong problem-solving skills and the ability to analyze complex business problems and design innovative solutions.
+Excellent coding practices and ability to write clean, modular, and efficient code.
+Strong communication skills and ability to work effectively in a team environment.
+Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud) and experience deploying AI and graph computing solutions in a cloud environment is a plus.
+Prior experience in applying AI and graph computing techniques to real-world business problems is desirable.
+
+Join our team and contribute to the development of cutting-edge AI and graph computing solutions that drive innovation and deliver business value.","AIGC Engineer","2023-05-28 21:07:10"
+49,"About the job
+Job Purpose
+
+The job holder is responsible for designing and developing programs, algorithms and automated processes to cleanse, integrate and evaluate large datasets from disparate sources and implement complex business logic as needed with the available data processing tools.
+The job holder will be responsible for integrating new data sources to increase throughput of existing systems, managing data pipelines that facilitate robust analysis, and sourcing và preparing data to ensure data completeness on metadata platforms.
+
+Key Accountabilities (1)
+
+Data Architecture
+
+Deliver functionality required for business and data analysts, data scientists and other business roles to advance the overall analytic performance and strategy of the bank
+Build the best practices and strategies for data infrastructure to fulfill data analytic and utilization needs of the business with emerging latest technologies and capabilities.
+Proactively drive the effort of identifying opportunities to manage data and provide solutions for complex data feeds within the bank.
+Evaluate various data architectures in the bank and utilize them to develop data solutions to meet business requirements.
+Drive the delivery of data products and services into systems and business processes in compliance with internal regulatory requirements.
+Oversee the review of internal and external business and product requirements for data operations and activity and suggests changes and upgrades to systems and storage to accommodate ongoing needs.
+
+Key Accountabilities (2)
+
+Data Integration
+
+Strategically obtain and integrate data and information from various sources into the firm’s platforms, solutions and statistical models.
+Lead discussion with Data Scientists to understand the data requirements and create re-usable data assets to enable data scientists to build and deploy machine learning models faster.
+Design, build, and maintain optimized data pipelines and ETL solutions as business support tools in providing analysis and real time analytics platform for critical decision making.
+Ensure data assets are organized and stored in an efficient way so that information is high quality, reliable, flexible, and efficient.
+
+Key Accountabilities (3)
+
+Project Management
+
+Manage project conflicts, challenges and dynamic business requirements to keep operations running at high performance.
+Work with team leads to resolve people problems and project roadblocks, conduct post mortem and root cause analysis to help squads continuously improve their practices to ensure maximum productivity.
+
+Talent Development
+
+Mentor and coach junior fellows into fully competent Data Engineers.
+Identify and encourage areas for growth and improvement within the team.
+
+Key Relationships - Direct Manager
+
+Senior Manager / Manager, Data Engineering
+
+Key Relationships - Direct Reports
+
+Key Relationships - Internal Stakeholders
+
+Key Relationships - External Stakeholders
+
+Partners providing professional services
+
+Success Profile - Qualification and Experiences
+
+Qualifications
+
+Bachelor's or Master’s degree in Statistics, Mathematics, Quantitative Analysis, Computer Science, Software Engineering or Information Technology
+
+Work Experience
+
+8+ years of relevant experience with developing, debugging, scripting and employing big data technologies (e.g. Hadoop, Spark, Flink, Kafka, Arrow, Tableau), database technologies (e.g. SQL, NoSQL, Graph databases), and programming languages (e.g. Python, R, Scala, Java, Rust, Kotlin) with preference towards functional/trait oriented
+English proficiency requirements are pursuant to Techcombank's policy
+Deep experience in designing and building dimensional data models, ETL processes, applied data warehouse concepts and methodologies, optimized data pipelines and wore the architect hat in the past or worked with one extensively
+Deep experience with monitoring complex system and solving data and systems issues having a consistent and algorithmic approach to resolving them
+Deep understanding of Information Security principles to ensure compliant handling and management of all data
+Experience working in Agile teams to lead successful digital transformation projects, having mastered Agile principles, practices and Scrum methodologies
+Has the know-how and the scripting and coding prowess to set up, configure và maintain a machine learning model development environment
+Experience architecting, coding and delivering high performance micro services and/or recommenders delivering recommendations to (tens of) millions of users","Expert, Data Engineering (40000062)","2023-05-28 21:07:14"
+50,"About the job
+LOCATION: Remote Work
+
+SCHEDULE: Part-time
+
+Are you passionate about software development and seeking a remarkable opportunity to gain hands-on experience while working with a prestigious Management Consulting firm? TalentKompass Deutschland, a top Human Resources company based in Germany, is searching for a motivated Python Developer Intern to join our esteemed client. This remote position presents a fantastic opportunity for someone who is eager to learn and grow in a dynamic and fast-paced environment.
+
+As a Python Developer Intern, you will work closely with the software development and consulting teams, where you will be responsible for a variety of tasks, including software design, development, and debugging. You will have the unique chance to learn from experienced professionals who will provide mentorship and guidance throughout the internship. With this opportunity, you will gain valuable experience in software development, data analysis, and teamwork – all essential skills for a successful career in this field.
+
+Responsibilities:
+
+Assist in the design, implementation, and maintenance of software applications
+Collaborate with cross-functional teams to gather requirements and develop solutions
+Conduct research on emerging software technologies and trends
+Participate in software debugging and performance optimization
+Test and debug applications to ensure optimal performance and security
+Support the team with general administrative tasks as needed
+Contribute to the creation of technical documentation and user guides
+
+Requirements:
+
+Basic understanding of software development principles and practices
+Familiarity with Python and its associated libraries
+Excellent written and verbal communication skills in English
+Ability to work independently and as part of a team
+Strong analytical and problem-solving skills
+Knowledge of database systems, such as MySQL, PostgreSQL, is a plus
+Experience with version control systems, such as Git, is a plus
+
+At TalentKompass Deutschland, we are committed to helping our interns develop their skills and reach their full potential. Our client is a reputable Management Consulting firm that will provide invaluable experience in a competitive industry. Don't miss this incredible opportunity to jump-start your career in software development – apply now!","Junior Python Developer (Remote Internship – IT)","2023-05-28 21:07:17"
+51,"About the job
+Please visit this Google Careers posting for the Vietnamese-translated version of this role.Minimum qualifications:
+
+Bachelor's degree in Computer Science or a related technical field or equivalent practical experience.
+5 years of experience in Technical Program Management.
+Experience in enterprise architecture practices and hybrid cloud deployments.
+
+Preferred qualifications:
+
+Master's degree in Engineering or a related technical field.
+3 years of experience as a Program or Engineering Manager, with domain expertise in analytics platforms, API development, or process automation.
+Experience operating in an entrepreneurial environment and scaling new and emerging products from the ground up.
+Demonstrated ability to work cross-functionally.
+Ability to travel up to 20% of the time.
+
+About The Job
+
+A problem isn’t truly solved until it’s solved for all. That’s why Googlers build products that help create opportunities for everyone, whether down the street or across the globe. As a Technical Program Manager at Google, you’ll use your technical expertise to lead complex, multi-disciplinary projects from start to finish. You’ll work with stakeholders to plan requirements, identify risks, manage project schedules, and communicate clearly with cross-functional partners across the company. You're equally comfortable explaining your team's analyses and recommendations to executives as you are discussing the technical tradeoffs in product development with engineers.
+
+Our goal is to build a Google that looks like the world around us — and we want Googlers to stay and grow when they join us. As part of our efforts to build a Google for everyone, we build diversity, equity, and inclusion into our work and we aim to cultivate a sense of belonging throughout the company.
+
+Google's mission is to organize the world's information and make it universally accessible and useful. Our Devices & Services team combines the best of Google AI, Software, and Hardware to create radically helpful experiences for users. We research, design, and develop new technologies and hardware to make our user's interaction with computing faster, seamless, and more powerful. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, the Devices & Services team is making people's lives better through technology.
+
+Responsibilities
+
+Manage technical projects or programs, working closely with Google engineers and technical staff to develop and track release milestones and schedules.
+Anticipate user needs before they arise. Go beyond standard off-the-shelf solutions to predict where the market is trending and where future opportunities lie.
+Guide products throughout the execution cycle, focusing specifically on the user experience and tailoring our solutions to our users.
+Build a community of loyal users who love and use our products.
+Develop tools and processes to improve software engineering productivity and own technical relationships with vendors and partners.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .","Technical Program Manager, Manufacturing Software Systems","2023-05-28 21:07:21"
+52,"About the job
+WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform.
+
+WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventional thinking and possess an attitude of continuous improvement.
+
+Our goal is to hire the best and the brightest. We value intellectual horsepower first and foremost, and people who demonstrate an outstanding talent. There is no roadmap to future success, so we need people who can help us build it.
+
+Technologists at WorldQuant research, design, code, test and deploy firmwide platforms and tooling while working collaboratively with researchers and portfolio managers. Our environment is relaxed yet intellectually driven. We seek people who think in code and are motivated by being around like-minded people.
+
+The Role: WorldQuant is seeking an exceptional individual to join the firm as a Machine Learning Engineer. While prior finance experience is not required, a successful candidate must possess a strong interest in learning about finance and global markets. Machine Learning Engineers will design, code and implement complex proprietary pipelines, models and tools to drive our forecast business. You will collaborate with researchers and PM’s to gather, analyze and spec out requirements, develop/test code, and manage product deliverables. A successful candidate will help build the software that will be used by Portfolio Managers to construct portfolios.
+
+What You’ll Bring
+
+M.Sc./Ph.D. from a leading university in a Computer Science, Engineering, or related discipline
+Experience designing and operating complex machine learning models and data pipelines
+Experience building distributed or data intensive systems
+Excellent problem solving abilities, insight, and judgment as well as a strong attention to detail
+Experience programming production systems in Python or C++
+Experience working in Linux environments
+Strong communication skills; ability to express complex concepts in simple terms
+Understanding of basic probability, statistical inference, software solvers, mathematical optimization is a big plus
+Experience building CI/CD pipelines is a big plus
+
+What We Offer
+
+Competitive and attractive compensation package with clear career road-map – where you feel challenged everyday
+We offer a strong culture of learning and development: training courses, library, speakers, share and learn events
+Learn from who sits next to you! Working in WQ you are surrounded by smart and talented people
+Employee resources groups with strong diversity and inclusion culture
+Premium Health Insurance and Employee Assistance Program
+Generous time-off policy, re-creation sabbatical leave (based on tenure), Trade Union benefits for staff and family
+Team building activities every month: Local engagement events, monthly team lunch – Employee clubs: football, ping-pong, badminton, yoga, running, PS5, movies, etc.
+Annual company trip and occasional global conferences – opportunity to travel and connect with our global teams
+Happy-hour with tea break, snacks and meals every day in the office!
+
+By submitting this application, you acknowledge and consent to terms of the WorldQuant Privacy Policy. The privacy policy offers an explanation of how and why your data will be collected, how it will be used and disclosed, how it will be retained and secured, and what legal rights are associated with that data (including the rights of access, correction, and deletion). The policy also describes legal and contractual limitations on these rights. The specific rights and obligations of individuals living and working in different areas may vary by jurisdiction.
+
+Copyright © 2023 WorldQuant, LLC. All Rights Reserved.
+
+WorldQuant is an equal opportunity employer and does not discriminate in hiring on the basis of race, color, creed, religion, sex, sexual orientation or preference, age, marital status, citizenship, national origin, disability, military status, genetic predisposition or carrier status, or any other protected characteristic as established by applicable law.","Machine Learning Engineer","2023-05-28 21:07:24"
+53,"About the job
+Position Responsibilities
+Feature owner for advanced auto parking systems ranging from traditional to fully autonomous.
+Direct interface to customers/suppliers for end-2-end requirement elicitation, development, testing, and launch.
+Lead developing of concepts, requirement, scenarios/use cases and integration, and confirmation testing.
+Work with each relevant team to ensure requirements and specification are fully and correctly implemented.
+Create opportunities for continual improvements in the quality of work.
+Rapidly iterate and develop concepts that exceeds the expectations of our customers.
+Support testing, validation, and verification, ensuring high quality, on-time delivery, and overall system compliance with specifications.
+Plan and execute project milestone to ensure deliverables meet department/company targets.
+Documentation of system development deliverables.
+Building knowledge to meet the VinFast customer needs, regulation, and ensure that the expectations of user is reflected in both requirements and concepts.
+
+Position requirements
+Technical skills required:
+5+ years of industry experience in ADAS system development and validation.
+Expert knowledge and experience in development of Autonomous /Automated parking related systems. OEM related experience is a plus.
+Experienced in mapping, localization systems for autonomous parking.
+Strong experience in requirement specifications, requirement management, test case generation.
+Hands-on experience on feature testing at vehicle level including testing procedures and signal analysis software toolchain.
+Solid experience and knowledge in AD/ADAS sensors/ECU and EE architecture, automotive communication protocols: LIN, CAN, FR, ETH, etc.
+Knowledgeable and experience including but not limited to the following domains: packaging, powertrain and chassis from mechanical and electrical, control aspects.
+Mix of hands-on skills in interdisciplinary engineering fields: mechanical, electrical, and programing skills.
+Knowledgeable in the following domains is preferred: global NCAPs, FUSA, SOTIF, and FMEA.
+Proven achievement in team-lead experience in mission-critical product development environments.
+Skillful automotive software’s: CANOE, CANape, MATLAB, CATIA, CODEBEAMER, DOORS, JIRA.
+BS or MS in Engineering in a technical degree in Automotive, Electrical Engineering, Industrial Automation, Computer Science, Electronics and Telecommunications, Informatics, comparable fields
+
+Other skills required:
+Strong cross-functional communication and collaboration.
+Excellent command of English both verbal and written
+Display & build enthusiasm within team environment.
+Previous working experience in an international team/ability to work with cross culture team.
+Positive attitude and constructive approach while interfacing with peers/suppliers
+Strong mentoring and team building skills
+Strong presentation and communication skills
+Innovative, think inside and outside the box
+Firm focus on driving for results
+Meticulous attention to detail
+Highly motivated and enthusiastic within team environment
+Flexible to work in a fast pace constantly changing environment with tight deadlines Come join VinFast and help drive the movement of the global smart EV revolution.","ADAS System Lead Engineer","2023-05-28 21:07:28"
+54,"About the job
+Description
+The Technical Lead is responsible to handle complex software program implementation; Makes, applies and documents detailed designs based on high-level design specifications; Plans, executes and documents unit tests; Is accountable for unit test leakage; Report status and issues; Contributes to system component design and design decisions.
+Can play Technical Lead role in project teams.
+To communicate project technical issues, progress, and support with clients.
+To lead the team in the development area:
+Provide practical instructions for design specifications.
+Perform coding, code reviewing, and code refactoring to comply with the established coding quality standard of the company.
+Review unit test cases, and unit test reports before release for testing.
+Conduct and maintain detailed design and component/service design documents.
+To develop new skills for team members if any new technologies are required based on the project roadmap.
+To self-train new technologies.
+To support tasks assigned by Line Manager, Project Manager & Technical Manager:
+Perform training/seminars/presales for the company.
+Obtain professional certificates.
+Qualifications
+University degree in Computer Sciences, or equivalent.
+5+ year experience Python competence (Linux, Apache/Nginx, MySQL, Python).
+Strong knowledge of OOP, SOLID principles.
+Strong knowledge of Python, familiar with at least one relevant framework Django/Flask/Falcon.
+Strong knowledge of web service development (RESTful/SOAP).
+Good knowledge of Linux, web application deployment and maintenance.
+Good Awareness of security, performance optimization in web development.
+Good to have additional skills:
+Experienced in one architecture model: Microservices, service-oriented, event-driven.
+Experienced in cloud-based application development – specially AWS.
+Experienced in Docker Engine and container orchestration platforms (Docker Swarm/Kubernetes).
+Experienced in one JavaScript Front-end framework (Angular/ReactJS/VueJS).
+Why You'll Love Working Here
+13-month salary per year.
+Performance bonus (up to 2-month salary).
+Social – Health – Insurance paid fully.
+Healthcare: Annual health check-up, Premium Health Insurance .
+Annual leaves: 14 ~ 18 days.
+Clubs program: Football, Badminton, Swimming, Tennis, Rock, Yoga….
+Training courses: Technical skills – Soft skills – English
+People are extremely important to us and that’s why we have a clear vision: to make NashTech a great place to work in its sector. We pride ourselves on:
+Professional and Flexible Working Environment
+Great Teamwork
+International Assignments
+WeCare - WeShare - WeDare - WeInnovate Engagement Program","Technical Lead – Python","2023-05-28 21:07:31"
+55,"About the job
+The private capital market hosts 14 trillion dollars of investment that fund massive innovation around the world; yet much of it still operates on manual processes and fragmented legacy systems. Think of the New York City subway system running on analog machines!
+Anduin's mission is to be the driving transformation engine for workflow automation, data processing, and systems integrations in this industry. Our products have powered over $44 billion in investments for 23,000+ investors across hundreds of funds.
+Anduin’s founding team was composed of leading technologists from Palantir, Addepar, and IBM. We have brought together world-class talent in engineering, product, and business development to actualize the next generation of transactions and analytics in the private markets.
+We are looking for Digitization Specialists who will work closely with both engineering, legal and digitization operation teams to take part in various production phases of Anduin Fund Subscription and Fund Operation products (https://fundsub.io).
+Job Responsibilities:
+Being trained to specialize in digitizing subscription forms, and being able to take part in every step of the process as needed.
+Coordinating with cross-functional team members including legal analysts, engineers, and customer success specialists in the digitization process to build and ship highly customized smart forms to customers.
+Active in the digitization space to improve digitization efficiency and capacity.
+Aligning with the company and team goals, and adapting to changes in technology and processes.
+Working closely with the engineering team to add technologies values to form digitization.
+Reviewing and analyzing the logic of fund subscription forms for venture, hedge, private equity, and similar funds. Understand and write logic requirements for the forms effectively so that the engineers can implement them.
+Addressing requests from clients and consulting engineers in the process of finalizing smart forms.
+Additional duties will be added, appropriate to the skills and abilities of the employee.
+Job Qualifications:
+Excellent at English reading comprehension and communication (MUST)
+Logical thinking with good analytical & problem-solving skills
+Ability to document and troubleshoot errors
+Agility and willingness to learn and adapt to technology
+Highly responsible and hardworking
+Excellent at time management & detail-oriented
+STEM background is a plus
+Benefit:
+Competitive compensation (salary and equity)
+Flexible work environment
+Unlimited time-off policy
+Health insurance
+The opportunity to be trained and join a growing and ambitious team that is passionate about solving customers’ needs","Digitization Specialist ( Welcome Fresher - No experience required)","2023-05-28 21:07:35"
+56,"About the job
+A global pharmaceutical giant that is actively providing its services in over 60 countries is looking for a Junior Python Developer. The selected candidate will be responsible for designing robust, testable systems on the platform as needed. The NYSE-listed company has been active for over 120 years and has established itself as the industry-wide standard in its attempt to make healthcare solutions and products more widely accessible. This is a rare opportunity for developers to work with a team of world-class professionals.
+
+Job Responsibilities:
+
+Plan, design, and execute end-to-end web architecture
+Rewrite existing code to ensure compliance with specified guidelines
+Ensure that outputs are user-friendly and visually compelling
+Build scalable, responsive, and well-documented stacks
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a software engineer
+Prolific experience working with Python
+Extensive experience with web development
+Familiarity with ML/AI and React is nice to have
+Great communication and interpersonal skills","Junior Python Developer","2023-05-28 21:07:38"
+57,"About the job
+Job Description:
+We are seeking a highly motivated and experienced Computer Vision Architect to join our team. The ideal candidate will have a passion for developing cutting-edge computer vision systems and the ability to lead a team of developers to build such systems. The computer vision architect will be responsible for designing and implementing computer vision algorithms and models for our products, as well as optimizing their performance.
+Key Responsibilities:
+1. Design and implement computer vision algorithms and models for our products
+2. Optimize the performance of computer vision systems for efficiency and accuracy
+3. Lead a team of developers to ensure high-quality delivery of computer vision projects
+4. Stay up-to-date with the latest advancements in computer vision technology and integrate them into our products
+5. Collaborate with cross-functional teams to identify and prioritize features and functionalities for our computer vision systems
+6. Develop and maintain documentation for computer vision algorithms and models
+7. Provide technical leadership and mentorship to junior developers
+8. Participate in code reviews and contribute to the development of best practices for computer vision development
+Requirements:
+1. Degree/Masters /Ph.D. in computer science or a related field with a focus on computer vision
+2. Proven experience as a computer vision architect or lead developer on computer vision projects
+3. Strong knowledge of computer vision algorithms and models, including deep learning techniques
+4. Experience with computer vision libraries such as OpenCV, TensorFlow, and PyTorch
+5. Proficiency in programming languages such as Python, C++, and Java
+6. Excellent problem-solving and analytical skills
+7. Strong communication and leadership skills
+8. Experience in Agile/Scrum development methodologies is a plus.
+If you meet the requirements above and are passionate about developing innovative computer vision systems, please apply for this exciting opportunity.","Architect for Computer Vision","2023-05-28 21:07:42"
+58,"About the job
+
+Description
+
+As a Senior Python Engineer (Web Software Engineer) at EPAM Vietnam, you'll coordinate a rapidly growing engineering team to build complex systems from scratch. If you have solid Python knowledge, excellent problem-solving skills and a strong mindset, you are the one chosen.
+
+What You’ll Do
+
+Lead full-cycle application development: from design and concept to production
+Will be responsible for team of developers
+Designing cost effective architecture for our customers
+Present technical solutions to product owners with detailed justifications to support your decisions
+
+What You Have
+
+Ability to select the proper tech stacks (framework, clouds, DBs, and other components) for the systems, and making cost-efficient solutions
+Having knowledge of architectural patterns like microservices, service-oriented architecture, event-driven and multi-tier architecture, or others. Deep understanding of architecture of distributed systems
+Demonstrating good understanding and practical experience with building scalable web applications
+Solid knowledge and working experience with Python
+Experience establishing the best practices of modern software development life cycle (SDLC)
+Knowing Agile development methodologies (SCRUM/Kanban)
+Having practical web development experience with any cloud platform (AWS, GCP, Azure)
+
+WHY EPAM
+
+By choosing EPAM, you're getting a job at one of the most loved workplaces according to Newsweek 2021 & 2022
+Employee ideas are the main driver of our business. We have a very supportive environment where your voice matters
+You will be challenged while working side-by-side with the best talent globally. We work with top-notch technologies, constantly seeking new industry trends and best practices
+We offer a transparent career path and an individual roadmap to engineer your future & accelerate your journey
+At EPAM, you can find vast opportunities for self-development: online courses and libraries, mentoring programs, partial grants of certification, and experience exchange with colleagues around the world. You will learn, contribute, and grow with us
+
+Life at EPAM
+
+EPAM is a leading global provider of digital platform engineering and development services. EPAM has been named the top IT Services company on the Fortune ‘100 Fastest-Growing Companies’ list (2019-2021)
+Established in 2019, EPAM Vietnam has more than 200 employees and is still expanding rapidly. We offer a multicultural environment where our tech talents can proactively develop world-class solutions directly with international clients. We support the sustainable development of our employees through a clear career path and provide a professional working environment and knowledge upgrading with internal learning solutions and external educational resources. EPAM Vietnam has been recognized by the Great Place to Work™ Institute as one of Vietnam’s Best Workplaces™ in 2022
+
+How We Hire
+Not sure if you meet all the requirements? No problem. Let’s talk anyway and find out more! It takes 1 min of application to start the journey with us. Apply now!
+Apply and tell us about yourself
+Go through some standard interviews:
+General interview with a recruiter
+Technical interview with our technology experts
+Manager interview or Offer interview with a hiring manager
+
+Get ready to join the team","Senior Python Engineer (Web Software Engineer)","2023-05-28 21:07:45"
+59,"About the job
+We are a leading financial services provider committed to making decisions easier and lives better for our customers and colleagues around the world. From our environmental initiatives to our community investments, we lead with values throughout our business. To help us stand out, we help you step up, because when colleagues are healthy, respected and meaningfully challenged, we all thrive. Discover how you can grow your career, make impact and drive real change with our Winning Team today.
+
+Working Arrangement
+
+Hybrid
+
+Job Description
+
+The opportunity
+
+The candidate will serve as data scientist for Manulife Vietnam , reporting to the Head of Data Analytics, Vietnam.
+
+Following Are The Key Responsibilities Of The Candidate
+
+The candidate will take a leading role in driving BU level analytics solution development and commercialization activities that transformed analytical concepts into business actions with measurable benefits, supporting in developing a robust, revenue generating, world class, analytics organization:
+Math / Statistical:
+Lead the development of advanced predictive/ prescriptive models and statistically rigorous model scripts to support analytics initiatives
+Work with regional teams and other countries within region to establish regional modeling standard, governance, and a set of umbrella modeling solutions; ensure compliance with Analytics CoE standard to maintain analytics rigor and discipline
+Establish & maintain regional model repository which captures, tracks and dynamically diagnose models-in-use
+Maintain knowledge of current and emerging developments / trends in the analytics space and collaborates with senior management to incorporate new ideas in current and future strategies
+Provide expert guidance to the in-country Analytics team on conducting advanced quantitative analyses facilitating effective targeting, segmentation, and identification of opportunities around cross-sell / up-sell, retention and marketing program optimization
+Data Strategy
+Work with the BUs / Countries the Regional Data Office in Manila, IS and external vendors / partners on the enrichment of analytics database
+Develop and drive regional analytics data capture, enhancement, cleansing and optimize regional data management capability to enable world-class analytics
+Talent Management
+Support CAO in recruiting, training, developing, coaching and retaining best-in-class analytics talent at BU /Country level
+Participate/lead the community of experts – contribute in creating training material, governance documents and sharing platforms
+Manage regional knowledge repository that houses internal IPs
+Accountabilities (Individual/shared)
+Data Science/ Analytics Rigour – Develop market leading analytics capabilities ranging from organization BI to advanced models, deploy leading edge analytics techniques /tools to improve ongoing insight generation process; keep abreast of state-of-art big data analytics trend and the application of such in business relevant way
+Analytics Data Strategy – Develop and drive regional analytics data strategy, including data capture, data enhancement, data cleansing – and liaise with Regional Data Office (RDO) and BUs to optimize regional data management capability to enable world-class analytics
+Talent & Intellectual Property Management – Support CAO in recruiting, training, developing, coaching and retaining best-in-class analytics talent at Business Units (BUs) / Country level. Centrally manage internal IP as core organization asset, and foster effective sharing of internal/external IPs across Region and BUs
+What motivates you?
+You obsess about customers, listen, engage and act for their benefit.
+You think big, with curiosity to discover ways to use your agile approach and enable business outcomes.
+You thrive in teams and enjoy getting things done together.
+You take ownership and build solutions, focusing on what matters.
+You do what is right, work with integrity and speak up.
+You share your humanity, helping us build a diverse and inclusive work environment for everyone.
+What can we offer you?
+A competitive salary and benefits packages.
+A growth trajectory that extends upward and outward, encouraging you to follow your passions and learn new skills.
+A focus on growing your career path with us.
+Flexible work policies and strong work-life balance.
+Professional development and leadership opportunities.
+Our commitment to you
+Values-first culture We lead with our Values every day and bring them to life together.
+Boundless opportunity We create opportunities to learn and grow at every stage of your career.
+Continuous innovation We invite you to help redefine the future of financial services.
+Delivering the promise of Diversity, Equity and Inclusion We foster an inclusive workplace where everyone thrives.
+Championing Corporate Citizenship We build a business that benefits all stakeholders and has a positive social and environmental impact.
+Every career at Manulife/John Hancock provides the opportunity to learn new skills and move your career forward. Ready to make an impact somewhere? What are you waiting for? Apply today.
+
+About John Hancock And Manulife
+
+John Hancock is a unit of Manulife Financial Corporation, a leading international financial services group that helps people make their decisions easier and lives better. We operate primarily as John Hancock in the United States, and Manulife globally, including Canada, Asia and Europe. We provide financial advice, insurance and wealth and asset management solutions for individuals, groups and institutions. Assets under management and administration by Manulife and its subsidiaries were CAD$1.3 trillion (US$1.1 trillion) as of June 30, 2021. Manulife Financial Corporation trades as MFC on the TSX, NYSE, and PSE, and under 945 on the SEHK. Manulife can be found at manulife.com.
+
+One of the largest life insurers in the United States, John Hancock supports more than 10 million Americans with a broad range of financial products, including life insurance, annuities, investments, 401(k) plans, and education savings plans. Additional information about John Hancock may be found at johnhancock.com.
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.","Assistant Manager, Data Scientist","2023-05-28 21:07:49"
+60,"About the job
+Overview
+
+RMIT VIETNAM
+
+RMIT Vietnam, an entity of RMIT University, has campuses in Ho Chi Minh City and Hanoi since 2001. We provide internationally recognised, high-quality, education and professional training for students, clients and the community, and assist in the development of human resources capability in Vietnam and the region by hosting students from Australia and many other countries.
+
+SCHOOL OF SCIENCE, ENGINEERING & TECHNOLOGY (SSET)
+
+The School of Science, Engineering & Technology at RMIT Vietnam is associated with the STEM College of RMIT University Melbourne, delivering the College’s award programs and developing research in the field(s) of science, engineering and health. Programs currently taught on the Vietnam campus include
+
+Bachelor of Information Technology
+
+Bachelor of Engineering (Electrical and Electronics)
+
+Bachelor of Engineering (Software Engineering)
+
+Bachelor of Engineering (Robotics & Mechatronics)
+
+Bachelor of Applied Science (Aviation)
+
+Bachelor of Applied Science (Psychology)
+
+Master of Artificial Intelligence
+
+Master of Cyber Security
+
+Doctor of Philosophy (Engineering) (Electrical and Electronic Engineering).
+
+YOUR ROLE
+
+When you join our SSET Team as Lecturer/ Senior Lecturer, Artificial Intelligence, you will bring your expert knowledge, education and experience to add significant value and impact to the teaching, research and industry engagement related activities involved in this role. As an academic member of staff, you can expect to team across undergraduate and post graduate programs whilst developing your own scholarly, research and professional capabilities. You will actively promote the program through establishing and maintaining networks and partnerships with academic, industry and professional communities (locally and internationally).
+
+For a more detailed account of the position responsibilities, you can click on this link
+
+CULTURE
+
+Our Values inspire us, wherever we are in the world, and guide how we live and work together.
+
+Imagination. Agility. Courage. Passion. Impact. Inclusion.
+
+What unites us is our purpose and our values; they are at the heart of who we are, what we stand for, how we make decisions and connect with each other. Our people make everything at the University possible. We encourage new approaches to work and learning, stimulating change to drive positive impact. RMIT exists to create transformative experiences for our students, getting them ready for life and work. You will be a part of a productive and collaborative team, who values working relationships and outcomes through open and inclusive planning, continuous information sharing and transparent work practices.
+
+Our Requirements
+PhD or equivalent relevant Doctoral qualification
+At least 5 years relevant experience, teaching in a University environment
+Proven teaching proficiency, curriculum development, and research record in: Data Analytics and Predictive Analytics; Machine Learning including Deep Learning; Statistics and Engineering Mathematics.
+Understanding of applications of AI as applied in contemporary health, science, technology, engineering.
+Recognised research profile including substantial record of research outputs in high quality journals.
+Strong team player with an inclusive and collaborative approach.
+Culturally adept and agile.
+
+Benefits
+Highly competitive VND salary (plus allowances) for local candidates or attractive USD salary package (plus benefits) for expatriate candidates depending on proven track record in meeting all the key selection criteria.
+Expatriate candidates: Relocation allowance from US$6,000 to US$10,000 per staff; Educational support up to US$15,000 per child annually, up to 2 children per family; private insurance coverage for staff and family; annual health check up; Work Permit for staff, Visa and temporary resident cards for family members
+Local candidates: 13th month Tet bonus + private medical insurance (for you and your dependents) + annual health check.
+20 days annual leave plus 5 days paid leave Xmas closure, plus public holidays and 10 days paid sick leave.
+Support and guidance from experienced Mobility Advisor to assist in work permit and visa application together with relocation to and settling into living and working in Vietnam.
+FURTHER INFO
+
+As an expatriate candidate you will require a work permit to be employed in Vietnam. To qualify for a work permit you will need a PhD qualification and you will need to be able to demonstrate at least 5 years of teaching across relevant subjects in a tertiary education environment.
+
+English is the language of teaching and communication at RMIT Vietnam. For this role, the minimum requirement is IELTS Academic 7.0 and with no band less than 6.5 (or equivalent).
+
+Information Pack Foreign Candidates
+
+Academic FAQ's RMIT Vietnam
+
+How To Apply
+
+Please submit your CV, covering letter, and a separate document addressing the Key Selection criteria by clicking on the ‘Apply’ link below.
+
+Applications Close
+
+14 thg 6 2023 11.59 pm
+
+RMIT University Vietnam (RMIT Vietnam) is a campus of RMIT University. RMIT Vietnam is creating an innovative research, teaching and learning culture. We are committed to providing internationally recognised high-quality education and professional training for our students, clients and members of the community. As an internationally recognised Australian university based in Asia, RMIT Vietnam is assisting in the development of human resources capability in Vietnam and the region.
+
+https://www.rmit.edu.vn/about-us","Lecturer/Senior Lecturer, Artificial Intelligence","2023-05-28 21:07:52"
+61,"About the job
+Our Company
+
+TELUS International AI-Data Solutions partners with a diverse and vibrant community to help our customers enhance their AI and machine learning models. The work of our AI Community contributes to improving technology and the digital experiences of many people around the world. Our AI Community works in our proprietary AI training platform handling all data types (text, images, audio, video and geo) across 500+ languages and dialects. We offer flexible work-from-home opportunities for people with passion for languages. The jobs are part-time, and there is no fixed schedule. Whoever you are, wherever you come from, come join our global AI community. www.telusinternational.com
+
+Who is suitable for this work?
+
+We are looking for dynamic people who have strong communication skills and use the Internet daily.
+
+This is a freelance, independent contractor position. You will have the flexibility and freedom to work from your own home, working your own hours.
+
+What does the work involve?
+
+In this job you will be reviewing online advertisements in order to improve their content, quality and layout. You will be required to provide feedback and analysis on advertisements found in search engine results and provide ratings on their relevance to the search terms used. Another aspect of this opportunity will involve reviewing the language used in advertisements by examining grammar, tone and cultural relevance.
+
+As a Personalized Internet Ads Assessor your ultimate goal will be to contribute towards making internet search and online advertising more relevant and interesting for all Vietnamese speakers in Vietnam.
+
+Requirements
+
+You must be living in Vietnam for the last 3 consecutive years
+Suitable candidates must have full professional proficiency in English and Vietnamese
+Access to and use of a broadband internet connection and associated computer and antivirus software to perform the work, all provided at your own expense
+Experience in use of web browsers to navigate and interact with a variety of content
+Access to and use of an Android (version 4.1 or higher) or IOS Smartphone (version 8 or higher) to complete tasks
+A Barcode Scanner application must be installed on your smartphone to complete certain tasks
+Active daily user of Gmail and other forms of Social Media
+
+Working on this project will require you to go through a standard recruitment process (including passing an open book assessment). This is a part time project and your work will be subject to our standard quality assurance checks during the term of this agreement.
+
+Why join the TELUS International AI Community?
+
+Earn extra income
+Access to our community wellbeing initiative
+Remote work & Location Independence
+Flexible Hours to work around home life
+Better Work-Life Balance
+Be a part of an amazing online community
+
+Important notice: TELUS International will never request a monetary deposit for any role or project with the company, and our recruitment and sourcing teams only use @telusinternational.com or @telusinternational.ai addresses when emailing candidates. If you are unsure as to whether a job offer is legitimate, please contact us at TI_AICommunitySupport@telusinternational.com for confirmation.
+
+Additional Job Description
+
+In this job you will be reviewing online advertisements in order to improve their content, quality and layout. You will be required to provide feedback and analysis on advertisements found in search engine results and provide ratings on their relevance to the search terms used. Another aspect of this opportunity will involve reviewing the language used in advertisements by examining grammar, tone and cultural relevance.
+
+EEO Statement
+
+At TELUS International, we enable customer experience innovation through spirited teamwork, agile thinking, and a caring culture that puts customers first. TELUS International is the global arm of TELUS Corporation, one of the largest telecommunications service providers in Canada. We deliver contact center and business process outsourcing (BPO) solutions to some of the world's largest corporations in the consumer electronics, finance, telecommunications and utilities sectors. With global call center delivery capabilities, our multi-shore, multi-language programs offer safe, secure infrastructure, value-based pricing, skills-based resources and exceptional customer service - all backed by TELUS, our multi-billion dollar telecommunications parent.
+
+Equal Opportunity Employer
+
+At TELUS International, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.","Personalized Internet Ads Assessor – Vietnamese speakers in Vietnam","2023-05-28 21:07:56"
+62,"About the job
+The Company
+
+Hitachi Vantara, a wholly-owned subsidiary of Hitachi, Ltd., guides our customers from what’s now to what’s next by solving their digital challenges. Working alongside each customer, we apply our unmatched industrial and digital capabilities to their data and applications to benefit both business and society. More than 80% of the Fortune 100 trust Hitachi Vantara to help them develop new revenue streams, unlock competitive advantages, lower costs, enhance customer experiences, and deliver social and environmental value.
+
+Role Description
+
+Must have:
+
+Have many experience with AI/ML regarding to videp processing, language processing
+Ability to make architecture design, system design
+Good English
+
+Should have
+
+Knowledge about cloud, DevOps (MLOPs)
+Ability to coach and lead team
+
+We are an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.","Computer Vision Senior Engineer","2023-05-28 21:07:59"
+63,"About the job
+We are finding a data scientist for global team of a top-market FMCG company, with detail requirement as below:
+
+Qualifications
+6+ Year of Experience in Data Field.
+Have a strong academic background in quantative field (Statistics, Mathematics, Computer Science, Engineering, etc).
+Familiarity with Microsoft Azure.
+Solid knowledge and practical experiences in EDA, modelling, testing, BAU monitoring.
+Fluent in English.
+
+Benefit
+Flexible working policy: hybrid/ remote
+Fix 13th month salary
+2-3 months performance bonus
+
+For further information, please approach me via
+Skype: ntkhuyen0102
+Email: huyen_nguyen@persolkelly.com.
+
+Looking for your CV!","Data Scientist","2023-05-28 21:08:03"
+64,"About the job
+Ninja Van is a tech-enabled logistics company on a mission to provide hassle-free delivery services for businesses of all sizes across Southeast Asia. Launched in 2014, we started operations in Singapore and have become the region's largest and fastest growing last-mile logistics company, partnering with over 35,000 merchants and delivering more than 1,000 parcels every minute across six countries.
+
+At our core, we are a technology company that is disrupting a massive industry with cutting-edge software and operational concepts. Powered by algorithm-based optimisation, dynamic routing, end-to-end tracking and a data-driven approach, we provide best-of-class delivery services that delight both the shippers and end customers. But we are just getting started! We have much room for improvement and many ideas that will further shape the industry.
+
+At least 6 month of experienced working in an OPEX position
+Ability to work under high pressure
+Can adapt at a fast-changing environment with tight deadlines and limited resources.
+Team-work is a key, but solo is also a requirement
+Do everything to meet the deadlines
+Willing to learn and willing to do
+Excellent reporting skills
+Problem Solving and Handling stressful and complicated situations
+
+Responsibilities
+
+Honest and straight-forward
+Can-do attitude
+Ability to work overtime
+Bachelor’s or Master’s degree in Operations / logistics / Mathematics, Economics, Computer Science, Information Management or Statistics IT / Programing
+English with TOIEC 600+ or IELTS 4.5+
+
+Submit a job application
+
+By applying to the job, you acknowledge that you have read, understood and agreed to our Privacy Policy Notice (the “Notice”) and consent to the collection, use and/or disclosure of your personal data by Ninja Logistics Pte Ltd (the “Company”) for the purposes set out in the Notice. In the event that your job application or personal data was received from any third party pursuant to the purposes set out in the Notice, you warrant that such third party has been duly authorised by you to disclose your personal data to us for the purposes set out in the the Notice.","Senior Data Analyst - Hà Nội","2023-05-28 21:08:06"
+65,"About the job
+634964BR
+
+Introduction
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+Your Role and Responsibilities
+
+As Data Engineer in IBM Consulting, your Role and Responsibilities
+
+Understand the business requirement and the business vision.
+Analyse the technical project requirements and deliverables.
+Coordinate with the BA and Development team to make the team understand the requirement and deliverables.
+Overseeing Daily technical operations.
+Prepare and present progress report of the projects.
+Track the progress of the tasks of individual team members and report on any Risks/Issues.
+Drive proof of concept initiatives. When needed, quickly design and implement a prototype of a system or component
+Review the work done by the team for continuous improvement and adoption of best practices and coding standards.
+Communicating with customer PO/PM on the progress and requirements of the development team.
+Work with team on creating reusable components.
+Guide the team members and provide them technical and functional clarifications.
+Creation of mock data for testing in Development and SIT environments.
+Creation of data model for various layers in a datalake on cloud and on-prem setup.
+Review Sprint completion, SIT test reports, Traceability Matrix and then share it with customer Project Manager.
+
+Required Experience
+Strong technical experience of 7-12 years working with data projects preferably in cloud (AWS, Google, Azure) and with at least 3 end-to-end production implementations in cloud
+Hands-on experience of over 5 years in working with python, pyspark and its associated common packages to load and transform data
+Hand-on experience of over 5 years working in cloud technologies like S3, Glue, Lambda, DynamoDB or similar technologies
+Understanding and exposure of over 4 years in managing end-to-end data pipeline process and procedures
+Experience of over 5 years in managing and driving conversations with business teams
+Strong understanding and implementation experience of agile methodologies
+Strong exposure and experience of over 5 years in code promotion process following DevOps processes in cloud
+Self-motivated and comes with a can-do attitude with experience working in fast paced environment
+Experience managing a team of data engineers and resolving technical issues faced by them
+
+
+Preferred Experience
+
+Demonstrates experience in translating high level business capability requirements into executable technical solutions
+Broad experience of projects involving one/more of relevant Data Analytics technology areas viz BIG Data engineering, Data Warehousing, Data Integration, Data Quality, Data Modelling, Visualization, Analytics
+Prior experience in creating data models for building data pipelines across various layers of a data lake on cloud and On-Prem setup.
+
+Prior experience working and co-ordinating directly with customer and multiple vendors across multiple locations for project delivery.
+
+Required Technical and Professional Expertise
+
+As above
+
+Preferred Technical And Professional Expertise
+
+As above
+
+About Business Unit
+
+IBM Consulting is IBM’s consulting and global professional services business, with market leading capabilities in business and technology transformation. With deep expertise in many industries, we offer strategy, experience, technology, and operations services to many of the most innovative and valuable companies in the world. Our people are focused on accelerating our clients’ businesses through the power of collaboration. We believe in the power of technology responsibly used to help people, partners and the planet.
+
+Your Life @ IBM
+
+In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+Are you ready to be an IBMer?
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.","Data Engineer (Hanoi, Vietnam)","2023-05-28 21:08:10"
